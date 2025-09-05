@@ -2,7 +2,7 @@ name: iOS-ipa-build
 
 on:
   push:
-    branches: [ "master" ]
+    branches: [ "main" ]
 jobs:
   build-ios:
     name: 🎉 iOS Build
